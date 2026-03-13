@@ -21,4 +21,4 @@ The circuit was assembled manually and mounted inside a stompbox enclosure with 
 
 ## Photo
 
-![Pedal](pedal.jpg)
+![Pedal](pedal.png)
